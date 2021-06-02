@@ -1,11 +1,13 @@
-
+import AddCity from "./components/AddCity";
+import AddForecast from "./containers/AddForecast";
 
 const App = () => {
-  return (
-    <div>
-      1
-    </div>
-  );
+    return (
+        <>
+            <AddCity/>
+            <AddForecast/>
+        </>
+    );
 }
 
 export default App;

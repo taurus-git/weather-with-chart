@@ -1,5 +1,5 @@
-const constatnts = {
-
+const constants = {
+    GET_FORECAST: 'GET_FORECAST',
 }
 
-export default constatnts;
+export default constants;
